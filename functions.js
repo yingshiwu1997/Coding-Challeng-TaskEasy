@@ -1,6 +1,6 @@
 const jsonOutput = './json/output.json';
 const jsonfile = require('jsonfile');
-
+var fs = require('fs');
 function createListObj(arrayMettings){
     listObjMeetings = []
     arrayMettings.forEach(element => {
@@ -41,6 +41,7 @@ function getAvailableTimeList(listObjMeetings, listTime) {
 }
 
 function generateJsonList(listTime){
+    fs.unlink(jsonOutput, function (err) {});
     listTime.forEach(element => {
         if(element.count >= 3){
             jsonfile.writeFile(jsonOutput, element, {flag: 'a'}, function(err){});
