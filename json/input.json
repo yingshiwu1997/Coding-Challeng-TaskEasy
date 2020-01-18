@@ -1,0 +1,21 @@
+{
+    "list": [{
+        "name": "Kyle",
+        "meetings_hour": ["1:30 PM", "2:30 PM", "6:00 PM"]
+    },{
+        "name": "Paul",
+        "meetings_hour": ["7:00 PM", "9:00 AM", "1:30 PM", "3:00 PM", "3:30 PM"]
+    },{
+        "name": "Alex",
+        "meetings_hour": ["8:00 AM", "9:30 AM", "12:30 PM", "3:00 PM"]
+    },{
+        "name": "Luis",
+        "meetings_hour": ["9:00 AM", "1:30 PM", "3:00 PM", "3:30 PM"]
+    },{
+        "name": "Jairo",
+        "meetings_hour": ["8:00 AM", "9:00 AM", "6:00 PM"]
+    },{
+        "name": "Sonya",
+        "meetings_hour": ["8:00 AM", "12:30 PM", "1:30 PM", "3:30 PM"]
+    }]
+}

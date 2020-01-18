@@ -1,0 +1,16 @@
+
+{"time":"8:00 AM","persons":["Kyle","Paul","Luis"],"count":3}
+{"time":"8:30 AM","persons":["Kyle","Paul","Alex","Luis","Jairo","Sonya"],"count":6}
+{"time":"9:00 AM","persons":["Kyle","Alex","Sonya"],"count":3}
+{"time":"9:30 AM","persons":["Kyle","Paul","Luis","Jairo","Sonya"],"count":5}
+{"time":"10:00 AM","persons":["Kyle","Paul","Alex","Luis","Jairo","Sonya"],"count":6}
+{"time":"10:30 AM","persons":["Kyle","Paul","Alex","Luis","Jairo","Sonya"],"count":6}
+{"time":"11:00 AM","persons":["Kyle","Paul","Alex","Luis","Jairo","Sonya"],"count":6}
+{"time":"11:30 AM","persons":["Kyle","Paul","Alex","Luis","Jairo","Sonya"],"count":6}
+{"time":"1:00 PM","persons":["Kyle","Paul","Alex","Luis","Jairo","Sonya"],"count":6}
+{"time":"2:00 PM","persons":["Kyle","Paul","Alex","Luis","Jairo","Sonya"],"count":6}
+{"time":"2:30 PM","persons":["Paul","Alex","Luis","Jairo","Sonya"],"count":5}
+{"time":"3:00 PM","persons":["Kyle","Jairo","Sonya"],"count":3}
+{"time":"3:30 PM","persons":["Kyle","Alex","Jairo"],"count":3}
+{"time":"4:00 PM","persons":["Kyle","Paul","Alex","Luis","Jairo","Sonya"],"count":6}
+{"time":"4:30 PM","persons":["Kyle","Paul","Alex","Luis","Jairo","Sonya"],"count":6}
